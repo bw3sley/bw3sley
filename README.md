@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/bw3sley/8534a557f164ff99533eabee3d82ff02/raw/c952630525e210b4d5e1958aaa997eb930be93e3/profilecard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/bw3sley/8534a557f164ff99533eabee3d82ff02/raw/5326be6403a51cca4312594597943bcccbb9cbd9/profilecard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wesley Bernardes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bw3sley&color=yellow" alt="Profile views" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working at [Aptiv](https://www.aptiv.com/)
 
-- 👨‍💻 All of my projects are available at [Wesley Bernardes](https://github.com/bw3sley?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/bw3sley?tab=repositories)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, NodeJS, ReactJS, React Native**
 
