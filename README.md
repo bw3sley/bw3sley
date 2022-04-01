@@ -7,9 +7,9 @@
 
 - 🔭 I'm currently working at [Aptiv](https://www.aptiv.com/)
 
-- 👨‍💻 All of my projects are available at [Wesley Bernardes](https://github.com/bw3sley)
+- 👨‍💻 All of my projects are available at [Wesley Bernardes](https://github.com/bw3sley?tab=repositories)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, ReactJS, React Native**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, NodeJS, ReactJS, React Native**
 
 <br><br>
 
