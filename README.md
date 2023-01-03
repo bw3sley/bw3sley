@@ -5,7 +5,7 @@
 
 - 🔥 Full Stack Developer focused on turning your problems in great solutions
 
-- 🔭 I'm currently working at [Aptiv](https://www.aptiv.com/)
+- 🔭 I'm currently working at [2clix]([https://www.2clix.com/](https://www.2clix.com.br/))
 
 - 👨‍💻 All of my projects are available [here](https://github.com/bw3sley?tab=repositories)
 
