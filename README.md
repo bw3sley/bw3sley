@@ -1,6 +1,6 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/bw3sley/8534a557f164ff99533eabee3d82ff02/raw/d5d4c08c517b8e6b4b913e6fcbfed8200d3fcb8d/profilecard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Wesley Bernardes</h1>
+<h1 align="left">Hi 👋, I'm Wesley Bernardes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bw3sley&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Full Stack Developer focused on turning your problems in great solutions
