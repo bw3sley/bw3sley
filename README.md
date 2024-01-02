@@ -1,30 +1,14 @@
+# Wesley Júnior
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/bw3sley/8534a557f164ff99533eabee3d82ff02/raw/d5d4c08c517b8e6b4b913e6fcbfed8200d3fcb8d/profilecard.svg"/>
-<h1 align="left">Hi 👋, I'm Wesley Bernardes</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bw3sley&color=yellow" alt="Profile views" /> </p>
+Full Stack Developer at [@2clix](https://2clix.com.br) 🧡
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Junior-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bw3sley/)](https://www.linkedin.com/in/bw3sley/) 
+[![Gmail Badge](https://img.shields.io/badge/-bw3sley@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bw3sley@gmail.com)](mailto:bw3sley@gmail.com)
 
-- 🔥 Full Stack Developer focused on turning your problems in great solutions
+Enthusiast of the finest web and mobile development technologies.
 
-- 🔭 I'm currently working at [2clix](https://www.2clix.com.br)
+Currently focused on NodeJS, ReactJS, and React Native.
 
-- 👨‍💻 All of my projects are available [here](https://github.com/bw3sley?tab=repositories)
+> "If you're seeking a great opportunity, uncover a big problem."
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, NodeJS, ReactJS, React Native**
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-
-<br><br>
+I'll turn your problems into excellent solutions 🚀
